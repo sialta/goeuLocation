@@ -9,7 +9,7 @@
     <list default="true" id="93b56b17-1591-4d2e-9bb8-ffea7dfb4ac5" name="Default" comment="" />
     <ignored path="goEuroLocation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/CSVLocation.java" changelist="93b56b17-1591-4d2e-9bb8-ffea7dfb4ac5" time="1393689182746" ignored="false" />
+    <file path="/CSVLocation.java" changelist="93b56b17-1591-4d2e-9bb8-ffea7dfb4ac5" time="1393705589289" ignored="false" />
     <file path="/fragment.java" changelist="93b56b17-1591-4d2e-9bb8-ffea7dfb4ac5" time="1393689218610" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +72,9 @@
       <file leaf-file-name="CSVLocation.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CSVLocation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="127" selection-end="127" vertical-scroll-proportion="0.13527851">
+            <state line="59" column="66" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.72148544">
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1781#1931#0" expanded="true" />
                 <element signature="e#1920#1921#0" expanded="true" />
               </folding>
@@ -350,7 +351,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="10" width="1260" height="760" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -369,7 +370,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958263" sideWeight="0.6705491" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958263" sideWeight="0.6705491" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294509" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -440,8 +441,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CSVLocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="127" selection-end="127" vertical-scroll-proportion="0.13527851">
+        <state line="59" column="66" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.72148544">
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1781#1931#0" expanded="true" />
             <element signature="e#1920#1921#0" expanded="true" />
           </folding>

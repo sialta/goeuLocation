@@ -52,10 +52,10 @@ public class CSVLocation {
         // Read Input from command line
         URL url = new URL("https://www.goeuro.com/GoEuroAPI/rest/api/v2/position/suggest/de/"+args[0]);
         URLConnection con = url.openConnection();
-        new CSVLocation().print_content(con);
+        new CSVLocation().createCSV(con);
     }
     // read JSON file and create a csv file and save it in local hard drive.
-    private void print_content(URLConnection con) {
+    private void createCSV(URLConnection con) {
         if (con != null) {
             try {
 
